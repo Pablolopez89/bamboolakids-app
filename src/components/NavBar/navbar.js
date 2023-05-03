@@ -9,8 +9,9 @@ const Navbar = () => {
                 <button>Niñas</button>
                 <button>Niños</button>
             </div>
+            <cartWidget/>
         </nav>
-        <cartWidget/>
+
 
         
     );

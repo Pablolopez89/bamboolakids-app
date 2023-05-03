@@ -1,10 +1,12 @@
+import logo from './assets/logo.svg'
+
 const cartWidget = () => {
     return (
         <div>
-            <img src={cart} alt="cart-widget"/>
+            <img src={logo} alt="cart-widget"/>
             0
         </div>
-    )
+    );
 }
 
 export default cartWidget
