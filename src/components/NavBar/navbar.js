@@ -1,6 +1,6 @@
 import cartWidget from "../cartWidget/cartwidget";
 
-const Navbar = () => {
+const NavBar = () => {
     return (
         <nav>
             <h3>Bamboola Kids</h3>
@@ -17,4 +17,4 @@ const Navbar = () => {
     );
 }
 
-export default Navbar
+export default NavBar
